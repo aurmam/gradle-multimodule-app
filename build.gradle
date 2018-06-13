@@ -1,6 +1,6 @@
 buildscript {
     ext {
-        depManagementVersion = "0.5.1.RELEASE"
+        depManagementVersion = "1.0.5.RELEASE"
     }
     repositories {
         mavenCentral()
